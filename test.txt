@@ -1,3 +1,3 @@
 this is a test file
 second row and add some word
-thrid row
+local thrid row
